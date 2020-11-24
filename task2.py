@@ -18,6 +18,6 @@ a=int(2)
 b=float(3.4)
 x=float(a)
 y=int(b)
-print(x,/n y)
+print(x, y)
 
 
