@@ -82,7 +82,7 @@ b=math.pi/6
 print(math.cos(a)*math.sin(b))
 
 
-#3
+#8
 a=float(input('enter the first number:'))
 b=float(input('enter the second numner'))
 x=input('operator=')
